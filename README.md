@@ -4,7 +4,10 @@ Using pretrained dyGIE++ model, evaluates labelled financial news articles.
 ## Dygie++ paper
 https://www.semanticscholar.org/paper/Entity%2C-Relation%2C-and-Event-Extraction-with-Span-Wadden-Wennberg/fac2368c2ec81ef82fd168d49a0def2f8d1ec7d8
 
-## Origianl repo:
+## video presentation
+https://www.youtube.com/watch?v=iGFQryPS1R4
+
+## original repo
 https://github.com/dwadden/dygiepp
 
 
